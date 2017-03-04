@@ -31,7 +31,7 @@ class About extends Component {
                   <p className="address">
 						   <span>{ name }</span><br />
 						   <span>{ city }<br />
-                               { state }, { street }, { zip } Russia
+                               { state }, { street }, { zip } USA
                      </span><br />
 						   <span>{ phone }</span><br />
                      <span>{ email }</span>
